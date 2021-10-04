@@ -378,6 +378,14 @@ p {
 .project .content .workBx .textBx h3 {
     color: #fff;
     font-size: 1em;
+    margin-left: 10px;
+}
+
+
+
+.project .content .workBx .textBx a {
+    color: rgb(0, 255, 200);
+    font-size: 1em;
 }
 
 .testimonials .content {
