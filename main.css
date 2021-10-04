@@ -156,7 +156,7 @@ section {
     overflow: hidden;
     border-radius: 50%;
     margin-bottom: 20px;
-    border:1px solid rgba(0, 0, 0, 0.15)
+    border: 1px solid rgba(0, 0, 0, 0.15)
 }
 
 .banner .imgBx img {
@@ -297,6 +297,14 @@ p {
     height: 60px;
     /* remove h60 */
     max-width: 50px;
+}
+
+.services .content .serviceBox i {
+    font-size: 40px;
+    height: 40px;
+    /* remove h60 */
+    max-width: 50px;
+    margin-bottom: auto;
 }
 
 .services .content .serviceBox h2 {
@@ -568,5 +576,4 @@ p {
     .copyright {
         padding: 10px 20px;
     }
-    
 }
